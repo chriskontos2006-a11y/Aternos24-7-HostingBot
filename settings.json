@@ -6,8 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "normalmcserver-XkvA.aternos.me
-",
+    "ip": "normalmcserver-XkvA.aternos.me",
     "port": 16060,
     "version": "1.21.1",
     "try-creative": false
